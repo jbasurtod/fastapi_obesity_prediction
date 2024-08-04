@@ -1,5 +1,7 @@
 # Fastapi for the Obesity Prediction Trained Random Forest Model
 
+![Header Image](https://www.brcline.com/wp-content/uploads/2021/09/aws-lambda-logo.png)
+
 ## Overview
 
 This is the repo for the Fastapi project ready to be deployed to an AWS Lambda function.
