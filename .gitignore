@@ -1,0 +1,8 @@
+# Ignore the folder named 'cred'
+cred/
+
+# Ignore the file named 'command'
+command
+
+cred/predictor_user_1_accessKeys.csv
+cred/predictor_user_1_accessKeys (1).csv
