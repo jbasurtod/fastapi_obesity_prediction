@@ -1,6 +1,6 @@
 # Fastapi for the Obesity Prediction Trained Random Forest Model
 
-![Header Image](https://www.brcline.com/wp-content/uploads/2021/09/aws-lambda-logo.png)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*uoRkNnhqu3d61Zgx.png" width="300" >
 
 ## Overview
 
